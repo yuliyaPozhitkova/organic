@@ -39,8 +39,8 @@ body{
 
 @font-face {
     font-family: 'Montserrat-VariableFont_wght';
-    src: url(./fonts/Montserrat-VariableFont_wght.woff2) format('woff2-variations');
-    src: url(./fonts/Montserrat-VariableFont_wght.woff2) format('woff2') tech('variations');
+    src: url(../fonts/Montserrat-VariableFont_wght.woff2) format('woff2-variations');
+    src: url(../fonts/Montserrat-VariableFont_wght.woff2) format('woff2') tech('variations');
     font-weight: 100 1000;
 }
 
